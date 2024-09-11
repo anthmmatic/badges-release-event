@@ -1,5 +1,5 @@
 on:
-  release:
+  release: [created]
     types: [created]
 
 jobs:
